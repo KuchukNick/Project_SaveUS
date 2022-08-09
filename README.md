@@ -3,7 +3,8 @@
 <h2> <a href="https://saveus.by/"> <img src="Images/logonewwhite.png" alt="Save US"> </a></h2>
     This is the project that I've been working during the study at the IT-Academy. <br>
     Before start we divided site into the logical part for work with them.<br>
-    My goal for this project was to test new site part <a href="https://saveus.by/knowledge-base"> "Объявления" </a>.<br> 
+    My goal for this project was to test new site part <a href="https://saveus.by/knowledge-base"> "Объявления" </a>.<br>
+    <br> 
     More over during the working process we had to: 
 <ol>
     <li> Setup working enviroment: Jira, Qase </li>
