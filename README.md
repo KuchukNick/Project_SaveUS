@@ -5,11 +5,11 @@
     Before start we divided site into the logical part for work with them.<br>
     My goal for this project was to test new site part <a href="https://saveus.by/knowledge-base"> "Объявления" </a>.<br>
     <br> 
-    More over during the working process we had to: 
+    During the working process I had to: 
 <ol>
     <li> Setup working enviroment: Jira, Qase </li>
     <li> Create week milestones for our 4 week sprint </li>
-    <li> Write test cases in Qase. (For details see Qase witsh credentials Login:>>>>> Password >>>>>>>>) </li>
+    <li> Write test cases in Qase. (For details see Qase <a href="https://app.qase.io"> wits credentials <b>Login:</b> qase1test1@gmail.com     <b>Password</b> 1qaz2wsx) </li>
     <li> Perform test runs </li>
     <li> Write  <a href="https://docs.google.com/spreadsheets/d/1u1ZPyC1xUM_61AtO2Bjrr4Gmhfn3Xq2Q/edit#gid=1360196638"> Bug reports </a> </li>
     <li> Write test result report and feedback with suggetions for improvements </li>
