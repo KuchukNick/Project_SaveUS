@@ -9,7 +9,7 @@
 <ol>
     <li> Setup working enviroment: Jira, Qase </li>
     <li> Create week milestones for our 4 week sprint </li>
-    <li> Write test cases in Qase. (For details see Qase <a href="https://app.qase.io"> wits credentials <b>Login:</b> qase1test1@gmail.com     <b>Password</b> 1qaz2wsx) </li>
+    <li> Write test cases in Qase. (For details see <a href="https://app.qase.io"> Qase </a>  wits credentials <b>Login:</b> qase1test1@gmail.com     <b>Password</b> 1qaz2wsx) </li>
     <li> Perform test runs </li>
     <li> Write  <a href="https://docs.google.com/spreadsheets/d/1u1ZPyC1xUM_61AtO2Bjrr4Gmhfn3Xq2Q/edit#gid=1360196638"> Bug reports </a> </li>
     <li> Write test result report and feedback with suggetions for improvements </li>
