@@ -1,7 +1,6 @@
 <html>
 <body>
 <h2> <a href="https://saveus.by/"> <img src="Images/logonewwhite.png" alt="Save US"> </a></h2>
-
     This is the project that I've been working during the study at the IT-Academy.
     Before start we divided into several QA teams each had its own task.
     Our goal for this project was to test new site part <a href="https://saveus.by/knowledge-base"> "Объявления" </a>. 
