@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2> <a href="https://saveus.by/"> <img src="logonewwhite.png"> </a></h2>
+<h2> <a href="https://saveus.by/"> <img src="logonewwhite.png" alt="Save US"> </a></h2>
 <pre>
     This is the project that I've been working during the study at the IT-Academy.
     Before start we divided into several QA teams each had its own task.
