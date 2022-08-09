@@ -1,4 +1,6 @@
-<h2> <a href="https://saveus.by/"> <img src="https://github.com/KuchukNick/SaveUS/tree/main/Images/logonewwhite.png"> </a></h2>
+<html>
+<body>
+<h2> <a href="https://saveus.by/"> <img src="logonewwhite.png"> </a></h2>
 <pre>
     This is the project that I've been working during the study at the IT-Academy.
     Before start we divided into several QA teams each had its own task.
@@ -14,4 +16,6 @@
     <li> Write test result report and feedback with suggetions for improvements </li>
 </ol>
 For more information about project see: <a href="https://docs.google.com/document/d/1YdpfGgaedHNA9jOt4mfe355GSTDSyttA/edit?usp=sharing&ouid=111789381708068648588&rtpof=true&sd=true"> Final Test Result Report </a> and <a href="https://docs.google.com/presentation/d/1aXNBEQ8NjgNoi_Q6_0yeKTIN7LLCc97T/edit#slide=id.p1"> Presentaion </a>
+</body>
+</html>
 
