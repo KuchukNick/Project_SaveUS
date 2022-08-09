@@ -1,4 +1,4 @@
-<h2> <a href="https://saveus.by/"> <img src="images/logonewwhite.png" alt="SAVE US"> </a></h2>
+<h2> <a href="https://saveus.by/"> <img src="images/logonewwhite.png"> </a></h2>
 <pre>
     This is the project that I've been working during the study at the IT-Academy.
     Before start we divided into several QA teams each had its own task.
@@ -8,7 +8,7 @@
 <ol>
     <li> Setup working enviroment: Jira, Qase </li>
     <li> Create week milestones for our 4 week sprint </li>
-    <li> Write test cases in Qase. (For details see Qase with credentials Login:>>>>> Password >>>>>>>>) </li>
+    <li> Write test cases in Qase. (For details see Qase witsh credentials Login:>>>>> Password >>>>>>>>) </li>
     <li> Perform test runs </li>
     <li> Write  <a href="https://docs.google.com/spreadsheets/d/1u1ZPyC1xUM_61AtO2Bjrr4Gmhfn3Xq2Q/edit#gid=1360196638"> Bug reports </a> </li>
     <li> Write test result report and feedback with suggetions for improvements </li>
